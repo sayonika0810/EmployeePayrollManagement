@@ -83,15 +83,8 @@ Includes full coverage for:
 
 ---
 
-## 📬 Postman Collection
-
-You can use the provided Postman collection to test all endpoints easily.  
-👉 _[Optional: Add link or export file here]_
-
----
 
 ## 📝 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Sayonika**  
 
